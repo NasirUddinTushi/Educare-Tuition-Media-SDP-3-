@@ -1,12 +1,5 @@
-# Online-Tutor-System-PHP
+# Educare-Tuition-media
 
-## Summary
-Hello friends, This is my online tutor management project. This is free. Anybody can use and moderate this project.
-
-### Youtube Preview
-From youtube you can see it's demo preview. Link: https://www.youtube.com/watch?v=Em6LmPH7-e0
-
-## Platform Used
 ### Front-End
   (i) HTML5 <br>
   (ii) CSS3 <br>
@@ -35,5 +28,3 @@ From youtube you can see it's demo preview. Link: https://www.youtube.com/watch?
 (iv) Change Email & Password <br>
 (v) Can View Previous Post with UPDATE and DELETE <br>
 
-## Conclusion
-There are also many more feature which are not in the list. Feel free to use this project
