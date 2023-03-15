@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background-color: #1f2641;
+  background-image: url(../image/bg-texture.png);
+}
+
+.parent2 {
+ display:block;
+  width:50px;
+  height:50px;
+  background-color:transparent;
+  border-radius:50%;
+  z-index:20;
+}
+.test1 {
+  width:42px;
+  height:42px;
+  background-color:#333;
+  border-radius:50%;
+  position:absolute;
+  color:white;
+  text-align:center;
+  line-height:50px;
+  z-index:19;;
+  left: 27px;
+  top: 2px;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550);
+    position:absolute;
+}
+.test2 {
+  width:42px;
+  height:42px;
+  left: 27px;
+  top: 2px;
+  background-color:#333;
+  border-radius:50%;
+  position:absolute;
+  color:white;
+  text-align:center;
+  line-height:50px;
+  z-index:19;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .2s;
+}
+.test3 {
+  width:42px;
+  height:42px;
+  background-color:#333;
+  border-radius:50%;
+  position:absolute;
+  color:white;
+  text-align:center;
+  line-height:50px;
+  left: 27px;
+  top: 2px;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .4s;  
+}
+.test4 {
+  width:42px;
+  height:42px;
+  background-color:#333;
+  border-radius:50%;
+  position:absolute;
+  color:white;
+  text-align:center;
+  line-height:50px;
+  left: 27px;
+  top: 2px;
+  transition: all 500ms cubic-bezier(0.680, -0.550, 0.265, 1.550) .6s;  
+}
+.mask2 {
+  font-size: xx-large;
+  border-radius:50%;
+  position:absolute;
+  /* z-index:21; */
+  color:white;
+  text-decoration: none;
+  text-align:center;
+  cursor:pointer;
+  padding: 10px;
+  margin-top: -4px;
+}
+.mask2 a{
+  color: #fff;
+}
+.bimage1{
+  background-image: url("../image/insta-logo.png");
+}
