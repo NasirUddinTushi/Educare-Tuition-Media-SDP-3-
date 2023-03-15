@@ -1,30 +1,3 @@
 # Educare-Tuition-media
 https://nasiruddintushi.github.io/Educare-Tuition-Media-SDP-3-/
-### Front-End
-  (i) HTML5 <br>
-  (ii) CSS3 <br>
-
-### Back-End
-  (i) PHP <br>
-  (ii) MySQLi <br>
-
-## Key Features
-### Public User
-(i) Search Tutor <br>
-(ii) View Post <br>
-(iii) Create User Account <br>
-
-### Student/Parents User
-(i) Search Tutor <br>
-(ii) View Post <br>
-(iii) Apply for Teacher <br>
-(iv) Change Email & Password <br>
-(v) Can View Previous Post with UPDATE and DELETE <br>
-
-### Student/Parents User
-(i) Search Tutor <br>
-(ii) View Post <br>
-(iii) Update teachers account <br>
-(iv) Change Email & Password <br>
-(v) Can View Previous Post with UPDATE and DELETE <br>
 
